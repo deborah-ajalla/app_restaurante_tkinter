@@ -1,0 +1,10 @@
+lista_comidas = ['pollo','carnes', 'salmón', 'cordero', 
+                 'ensaladas', 'tartas', 'pizzas', 'ravioles']
+
+lista_bebidas = ['agua', 'jugo', 'gaseosa naranja', 
+                 'gaseosa cola', 'cerveza', 'vino',
+                 'sidra','champagne']
+
+lista_postres = ['helado','flan','budin de pan',
+                 'tarta de manzana', 'tarta de frutilla', 
+                  'chocotorta','selva negra','tiramisú']
